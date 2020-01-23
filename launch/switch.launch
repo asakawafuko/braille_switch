@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="braille_switch" name="switch_pub" type="switch_pub.py" required="true" output="screen" />
+        <node pkg="braille_switch" name="switch_sub" type="switch_sub.py" required="true" output="screen" />
+</launch>
