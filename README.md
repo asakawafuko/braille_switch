@@ -12,3 +12,7 @@ $ sudo insmod rtmouse.ko
 $ sudo chmod 666 /dev/rtswitch*
 $ roslaunch braille_switch switch.launch
 ```
+## 引用
+
+こちらのデバイスドライバを改変し利用させてもらいました
+https://github.com/rt-net/RaspberryPiMouse
