@@ -12,13 +12,9 @@ $ roslaunch braille_switch switch.launch
 ```
 ## License
 
-This repository is licensed under the GPLv3 License, see [](./LICENSE).
-
-このリポジトリはGPLv3ライセンスで公開されています。詳細は[LICENSE](./LICENSE)を確認してください。
+このリポジトリはGPLv3ライセンスで公開されています。詳細は[COPYING](./COPYING)を確認してください。
 
 ### Includings
-
-This repository contains the code of the repository shown below.
 
 このリポジトリは以下に示すリポジトリのコードを一部含みます。
 
