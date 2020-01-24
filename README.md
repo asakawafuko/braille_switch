@@ -1,5 +1,8 @@
 # braille_switch
 
+### 概要
+スイッチを押すと点字に対応した文字が画面に表示されるプログラムです.
+
 ## 実行方法
 ```
 $ cd ~/catkin_ws/src/
@@ -20,3 +23,6 @@ $ roslaunch braille_switch switch.launch
 
 * [ラズパイマウス用デバイスドライバ](https://github.com/rt-net/RaspberryPiMouse)
   * GPL v3 License
+
+### DEMO
+https://youtu.be/3waKxctYCik
